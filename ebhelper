@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         이벗패턴 분석기 (개선버전)
+// @name         ebhelper
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  ebut3pl.co.kr 사이트에서 주문데이터 패턴을 분석하고 자동 출력하는 도구
-// @author       Claude
+// @description  ebhelper
+// @author       Victor
 // @match        https://www.ebut3pl.co.kr/*
 // @grant        GM_xmlhttpRequest
 // @connect      www.ebut3pl.co.kr
